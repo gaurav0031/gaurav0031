@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaurav0031
+- 👋 Hi, I’m Gaurav
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on AWS projects
