@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gaurav Pratap Singh  
 
-💻 **Software Developer Engineer | Full-Stack Web Developer | Robotics & AI Enthusiast**  
+💻 **Software Developer Engineer| POET| Full-Stack Web Developer | Robotics & AI Enthusiast**  
 📍 India  
 
 ---
