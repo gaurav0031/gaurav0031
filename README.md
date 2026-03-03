@@ -1,4 +1,4 @@
-# Hello Tech Enthusiast👋👨‍💻
+#                                          Hello Tech Enthusiast👋👨‍💻
 
 Building scalable MERN & Next.js applications and real-time systems with cloud deployment.<br>Full-stack web apps, EdTech platforms, AI-integrated projects, and IoT solutions.<br>System design, advanced DevOps workflows, and production-level scaling.<br>Data Structures & Algorithms (DSA) and DevOps (CI/CD, Docker, AWS automation).<br>MERN Stack, Next.js, Firebase, AWS EC2, real-time apps, and hardware-software integration.<br>I’m a software developer who also writes poetry — code by day, कविताएँ by night ✨
 
