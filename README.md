@@ -20,5 +20,5 @@ Building scalable MERN & Next.js applications and real-time systems with cloud d
 [![](https://visitcount.itsvg.in/api?id=gaurav0031&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-⭐ *Always open to learning, building, and collaborating on impactful projects.*
+⭐ *Always open to learning, building, and collaborating on impactful projects.***
      
