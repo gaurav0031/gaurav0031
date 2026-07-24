@@ -1,24 +1,118 @@
-#Hello Tech Enthusiast👋👨‍💻
+# Hi there 👋 I'm Gaurav Pratap Singh
 
-Building scalable MERN & Next.js applications and real-time systems with cloud deployment.<br>Full-stack web apps, EdTech platforms, AI-integrated projects, and IoT solutions.<br>System design, advanced DevOps workflows, and production-level scaling.<br>Data Structures & Algorithms (DSA) and DevOps (CI/CD, Docker, AWS automation).<br>MERN Stack, Next.js, Firebase, AWS EC2, real-time apps, and hardware-software integration.<br>I’m a software developer who also writes poetry — code by day, कविताएँ by night ✨
+### Full Stack Software Engineer | System Design Enthusiast | Cloud & AI Builder
 
+I'm a software engineer passionate about building **scalable software**, **cloud-native architectures**, and **real-world products**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.i.o/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakurr_gauravv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-pratap2631/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravpratap2631@gmail.com) 
+Currently exploring the intersection of **System Design, Distributed Systems, Cloud Infrastructure, AI, and DevOps** while building production-ready applications.
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaurav0031&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gaurav0031&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav0031&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 What I Build
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gaurav0031&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- ⚡ Scalable MERN & Next.js applications
+- ☁️ Cloud-native systems on AWS
+- 📚 Large-scale EdTech platforms
+- 🤖 AI-integrated applications
+- 🌐 Real-time systems using WebSockets & Firebase
+- 🔗 REST APIs & Backend Architectures
+- 📱 Responsive frontend experiences
+- 🔌 IoT & Hardware-Software Integration
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gaurav0031&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-⭐ *Always open to learning, building, and collaborating on impactful projects.***
-     
+## 📖 Currently Learning
+
+- 🏗 System Design & Distributed Systems
+- ☁️ AWS Architecture
+- 🐳 Docker & Kubernetes
+- ⚙️ CI/CD & DevOps Automation
+- 📊 High-Level & Low-Level Design
+- 📈 Performance Optimization
+- 🧠 Data Structures & Algorithms
+
+---
+
+## 💼 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github-actions)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-black?style=for-the-badge&logo=raspberry-pi)
+
+---
+
+## 🌍 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox)](https://gaurav07.in)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gaurav-pratap2631)
+
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/thakurr_gauravv)
+
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:gauravpratap2631@gmail.com)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=gaurav0031&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=gaurav0031&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav0031&theme=tokyonight&layout=compact&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=gaurav0031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+---
+
+## 💡 Quote I Believe In
+
+> **"Good developers write code. Great engineers design systems that continue working long after they're gone."**
+
+---
+
+![](https://visitcount.itsvg.in/api?id=gaurav0031&icon=5&color=12)
+
+### ⭐ Open to collaborating on impactful software, cloud infrastructure, AI, and scalable systems.
+
+*"I write scalable software by day and poetry by night."* ✨
